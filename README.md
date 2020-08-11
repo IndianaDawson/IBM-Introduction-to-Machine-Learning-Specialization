@@ -1,4 +1,4 @@
-# [IBM-Introduction-to-Machine-Learning-Specialization](https://www.coursera.org/specializations/ibm-intro-machine-learning_
+# [IBM-Introduction-to-Machine-Learning-Specialization](https://www.coursera.org/specializations/ibm-intro-machine-learning)
 
 Here are the practice exercises and peer-review projects for each of the courses within the specialization.
 
