@@ -15,7 +15,11 @@ Each of the links take you to the IBM course on coursera, and the notes undernea
    - Type 1&2, P-Value, and Hypothesis Testing
 
 2. [Supervised Learning: Regression](https://www.coursera.org/learn/supervised-learning-regression)
-   - 
+   - Linear Regression
+   - Training & Test Splits
+   - Cross Validation
+   - Regularization Techniques (Bias, Variance, Ridge, LASSO)
+   - Polynomial Features and Regularization
 
 3. [Supervised Learning: Classification](https://www.coursera.org/learn/supervised-learning-classification)
 
