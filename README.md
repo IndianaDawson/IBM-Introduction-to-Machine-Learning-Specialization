@@ -9,8 +9,8 @@ The purpose of this github is to provide a reference on how to best do this spec
 Each of the links take you to the IBM course on coursera, and the notes underneath each link give a reference to what is covered in the course and covered within the notebooks in their respected folders 
 
 1. [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning)
- - sqlite database reading
- - Data Cleaning & EDA
+  - sqlite database reading
+  - Data Cleaning & EDA
  - Feature Engineering & Feature Transformation
  - Type 1&2, P-Value, and Hypothesis Testing
 
