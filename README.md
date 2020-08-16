@@ -28,3 +28,4 @@ Each of the links take you to the IBM course on coursera, and the notes undernea
    - Modeling Unbalanced Classes, Modeling Approaches for Unbalanced Classes, 
 
 4. [Unsupervised Learning](https://www.coursera.org/learn/ibm-unsupervised-learning)
+   - K-means Clustering, Inertia, Distortion
