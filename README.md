@@ -22,10 +22,13 @@ Each of the links take you to the IBM course on coursera, and the notes undernea
    - Polynomial Features and Regularization
 
 3. [Supervised Learning: Classification](https://www.coursera.org/learn/supervised-learning-classification)
-   - Regression models, which predict a continuous outcome. Classification models, which predict a categorical outcome.
+   - Regression models, which predict a continuous outcome
+   - Classification models, which predict a categorical outcome
    - Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Decision Tree, Neural Networks, Random Forests
    - Ensemble Based Methods and Bagging, Gradient Boosting, Stacking
    - Modeling Unbalanced Classes, Modeling Approaches for Unbalanced Classes, 
 
 4. [Unsupervised Learning](https://www.coursera.org/learn/ibm-unsupervised-learning)
    - K-means Clustering, Inertia, Distortion
+   - Distance Metrics (Manhattan Distance, Euclidean, Cosine, Jaccard)
+   - Hierarchical Clustering (Single, Complete, Average, Agglomerative)
