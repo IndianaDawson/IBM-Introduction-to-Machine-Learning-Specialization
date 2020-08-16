@@ -32,3 +32,4 @@ Each of the links take you to the IBM course on coursera, and the notes undernea
    - K-means Clustering, Inertia, Distortion
    - Distance Metrics (Manhattan Distance, Euclidean, Cosine, Jaccard)
    - Hierarchical Clustering (Single, Complete, Average, Agglomerative)
+   - Principal Component analysis (PCA), Non Negative Matrix Decomposition
