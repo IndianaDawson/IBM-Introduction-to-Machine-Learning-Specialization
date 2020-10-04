@@ -33,3 +33,18 @@ Each of the links take you to the IBM course on coursera, and the notes undernea
    - Distance Metrics (Manhattan Distance, Euclidean, Cosine, Jaccard)
    - Hierarchical Clustering (Single, Complete, Average, Agglomerative)
    - Principal Component analysis (PCA), Non Negative Matrix Decomposition
+   
+# [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)
+
+In addition the the specialization, a professional certificate is also available, which include the four courses within the Machine Learning Specialization, plus these two additional courses.
+
+5. [Deep Learning and Reinforcement Learning](https://www.coursera.org/learn/deep-learning-reinforcement-learning)
+   - Gradient Descent, Backpropagation
+   - Keras, Transfer Learning
+   - CNN, RNN
+   - Autoencoders, Reinforcement
+
+6. [Specialized Models: Time Series and Survival Analysis](https://www.coursera.org/learn/time-series-survival-analysis)
+   - TimeSeries, Decomposition
+   - Stationarity, Smoothing
+   - ARMA, SARIMA, Survival
